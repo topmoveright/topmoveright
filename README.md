@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Flutter developer who loves creating beautiful and functional apps. Here are some highlights of my work:
+I'm a passionate Flutter developer who loves creating beautiful and functional apps.
 
 ---
 
