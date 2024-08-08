@@ -9,10 +9,10 @@ I'm a passionate Flutter developer who loves creating beautiful and functional a
 - Full Stack Development
 - PHP, Dart, Python, TypeScript
 - Flutter, Django, CodeIgniter, Electron, React
-- MySQL, SQLite, PostgreSQL, MongoDB
+- MySQL, SQLite, PostgreSQL, MongoDB, Oracle
 - CSS3, HTML/HTML5, JavaScript, JQuery
-- Node.js, Express.js, Strapi,
-- Linux, Nginx, Git, Docker
+- Firebase, Node.js, Express.js, Strapi,
+- GCP, Oracle Cloud, Linux, Nginx, Git, Docker
 
 ## 🏆 Experience
 #### 2023 Flutter Team Member (Senior Level)
