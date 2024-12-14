@@ -11,7 +11,7 @@ I'm a passionate Flutter developer who loves creating beautiful and functional a
 - Flutter, Django, CodeIgniter, Electron, React
 - MySQL, SQLite, PostgreSQL, MongoDB, Oracle
 - CSS3, HTML/HTML5, JavaScript, JQuery
-- Firebase, Node.js, Express.js, Strapi,
+- Supabase, Firebase, Node.js, Express.js, Strapi,
 - GCP, Oracle Cloud, Linux, Nginx, Git, Docker
 
 ## 🏆 Experience
@@ -43,10 +43,6 @@ I'm a passionate Flutter developer who loves creating beautiful and functional a
 #### 📫 How to reach me
 
 - **Email**: [topmoveright@gmail.com](mailto:topmoveright@gmail.com)
-
-#### ⚡ Fun fact
-
-When I'm not coding, you can find me exploring new technologies, hiking, or playing chess!
 
 ---
 
